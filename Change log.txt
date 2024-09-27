@@ -1,0 +1,4 @@
+#2024/09/25
+added a flav icon to each webpage 
+#2024/09/26
+created css page for home.html
